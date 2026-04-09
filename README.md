@@ -7,7 +7,7 @@ I'm a BBA student and aspiring Data Analyst who turns raw data into strategic bu
 *   👯 I’m looking to collaborate on **data analytics projects** with a business focus.
 *   💬 Ask me about **R, SQL, Tableau, Power BI, or how to find a $13.2M opportunity in data.**
 *   📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/arya-gupta-7aa3b0311)** | **[Email](mailto:aryag4067@gmail.com)**
-*   ⚡ Fun fact: I saved 15% of my data in one project with a single line of R code.
+*   ⚡ Fun fact: Reduced data loss by 15% through optimized data cleaning techniques in R.
 
 ---
 
